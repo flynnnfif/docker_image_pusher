@@ -1,6 +1,8 @@
 nginx
 #支持私库
+
 tickstep/aliyunpan-sync
 nextcloud
+
 #支持指定架构
 
