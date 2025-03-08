@@ -1,6 +1,7 @@
 #支持私库
 
-nextcloud
-tickstep/aliyunpan-sync
+#nextcloud
+tickstep/aliyunpan-sync:v0.3.6-arm64
+
 
 #支持指定架构
