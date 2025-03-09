@@ -1,8 +1,5 @@
 #支持私库
+--platform=linux/arm64/v8 mysql:latest
 
---platform=linux/arm/v5 nextcloud:stable-apache
-
+#--platform=linux/arm/v5 nextcloud:stable-apache
 #tickstep/aliyunpan-sync:v0.3.6-arm64
-
-
-#支持指定架构
