@@ -1,6 +1,6 @@
 #支持私库
 #--platform=linux/arm64/v8 mysql:8.4
---platform=linux/arm64 grafana/grafana:main-ubuntu
+--platform=linux/arm64 prom/prometheus:main
 
 #--platform=linux/arm/v5 nextcloud:stable-apache
 #tickstep/aliyunpan-sync:v0.3.6-arm64
